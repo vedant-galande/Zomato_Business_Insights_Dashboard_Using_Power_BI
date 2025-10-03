@@ -8,8 +8,6 @@
 - **Datasets:**  
   [Access Dataset](https://drive.google.com/drive/folders/1nCqnibGZQLGAKoOovD_f6cgYH2oCti-N?usp=sharing)
 
-# Zomato Data Analysis Dashboard Using Power BI
-
 ## Table of Contents
 - [Abstract](#abstract)
 - [Project Overview](#project-overview)
