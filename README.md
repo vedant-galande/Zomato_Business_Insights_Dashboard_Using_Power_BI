@@ -103,6 +103,6 @@ Here are some snapshots of the Zomato Power BI Dashboard:
 ### User Dynamics
 ![User Dynamics Dashboard](https://github.com/vedant-galande/Zomato_Business_Insights_Dashboard_Using_Power_BI/blob/main/Dashboard_Page_2.png)
 
-### City-Wise Analysis
+### City Performance Analysis
 ![City-Wise Dashboard](https://github.com/vedant-galande/Zomato_Business_Insights_Dashboard_Using_Power_BI/blob/main/Dashboard_Page_3.png)
 
