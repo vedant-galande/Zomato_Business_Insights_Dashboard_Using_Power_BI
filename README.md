@@ -99,7 +99,7 @@ This project highlights the effectiveness of **Power BI** in uncovering data-dri
 Here are some snapshots of the Zomato Power BI Dashboard:
 
 ### Overview Page
-![Overview Dashboard]((https://github.com/vedant-galande/Zomato_Business_Insights_Dashboard_Using_Power_BI/blob/main/Dashboard_Page_1.png)
+![Overview Dashboard](https://github.com/vedant-galande/Zomato_Business_Insights_Dashboard_Using_Power_BI/blob/main/Dashboard_Page_1.png)
 
 ### User Dynamics
 ![User Dynamics Dashboard](https://github.com/vedant-galande/Zomato_Business_Insights_Dashboard_Using_Power_BI/blob/main/Dashboard_Page_2.png)
