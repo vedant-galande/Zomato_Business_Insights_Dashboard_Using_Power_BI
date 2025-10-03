@@ -1,4 +1,4 @@
-# 📊 Zomato Data Analysis Dashboard Using Power BI
+# Zomato Data Analysis Dashboard Using Power BI
 
 ## Abstract
 An interactive Power BI dashboard designed to analyse Zomato’s business data, uncover customer behaviour trends, and provide actionable insights into orders, sales, ratings, and user engagement across multiple cities.
