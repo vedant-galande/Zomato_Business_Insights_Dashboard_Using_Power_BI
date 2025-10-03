@@ -18,6 +18,7 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
+- [Dashboard Preview](#dashboard-preview)
 
 ## Abstract
 An interactive Power BI dashboard designed to analyse Zomato’s business data, uncover customer behaviour trends, and provide actionable insights into orders, sales, ratings, and user engagement across multiple cities.
