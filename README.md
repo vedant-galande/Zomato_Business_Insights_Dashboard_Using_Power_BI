@@ -52,23 +52,23 @@ The dataset includes details about customers, restaurants, orders, menus, and ra
 - **Pune:** INR 72.3 million  
 
 ## Key Insights
-- **City-Wise Performance:** Top-performing hubs include Delhi (INR 105.9M), Bangalore (INR 93.3M), Ahmedabad (INR 76.3M), and Pune (INR 72.3M).  
-- **Order Volume:** Over **150K orders** placed by **77.9K users**, with **77.5K active users** retained.  
-- **Sales Trends by Year:** Sales peaked in FY2018 with **INR 414.3M**, but later declined, indicating changing market dynamics.  
-- **Category Insights:** Vegetarian food dominated with **INR 122M sales**, followed by Non-Veg (**INR 106.3M**) and Others (**INR 23.5M**).  
+- **City-Wise Performance:** Top-performing hubs include Delhi (INR 105.9 million), Bangalore (INR 93.3 million), Ahmedabad (INR 76.3 million), and Pune (INR 72.3 million).  
+- **Order Volume:** Over **150,000 orders** placed by **779,000 users**, with **775,000 active users** retained.  
+- **Sales Trends by Year:** Sales peaked in FY2018 with **INR 414.3 million**, but later declined, indicating changing market dynamics.  
+- **Category Insights:** Vegetarian food dominated with **INR 122.0 million sales**, followed by Non-Veg (**INR 106.3 million**) and Others (**INR 23.5 million**).  
 - **Customer Demographics:** The **20–25 age group** dominated activity, with engagement dropping significantly after 30.  
-- **User Activity:** Zomato gained **12K new users**, but lost **33K**, signalling churn challenges.  
-- **Ratings & Engagement:** Over **148K ratings** collected, showing strong customer interaction.  
+- **User Activity:** Zomato gained **12,000 new users**, but lost **33,000**, signalling churn challenges.  
+- **Ratings & Engagement:** Over **148,000 ratings** collected, showing strong customer interaction.  
 
 ## Recommendations
 1. **Strengthen Customer Retention Programs**  
-   With **33K users lost vs 12K gained**, churn remains critical. Loyalty programs, subscriptions, and personalised offers **could reduce churn and increase lifetime value**.  
+   With **33,000 users lost vs 12,000 gained**, churn remains critical. Loyalty programs, subscriptions, and personalised offers **could reduce churn and increase lifetime value**.  
 
 2. **City-Specific Growth Strategies**  
-   Delhi (**INR 105.9M**) and Bangalore (**INR 93.3M**) lead in sales, while Hyderabad (**INR 26M**) and Surat (**INR 15.8M**) underperform. Targeted promotions and partnerships **could drive growth in lagging markets**.  
+   Delhi (**INR 105.9 million**) and Bangalore (**INR 93.3 million**) lead in sales, while Hyderabad (**INR 26 million**) and Surat (**INR 15.8 million**) underperform. Targeted promotions and partnerships **could drive growth in lagging markets**.  
 
 3. **Menu Optimization Based on Demand**  
-   With **Veg orders at 156K** leading demand, expanding vegetarian offerings while maintaining Non-Veg quality **could align supply with customer preference and boost sales**.  
+   With **Veg orders at 156,000** leading demand, expanding vegetarian offerings while maintaining Non-Veg quality **could align supply with customer preference and boost sales**.  
 
 ## Conclusion
 This project highlights the effectiveness of **Power BI** in uncovering data-driven insights into Zomato’s operations. By analysing sales, user behaviour, and city-wise performance, the dashboard supports **strategic decision-making, customer engagement improvement, and growth opportunities**.
