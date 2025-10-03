@@ -1,5 +1,14 @@
 # Zomato Data Analysis Dashboard Using Power BI
 
+## 📂 Project Files
+
+- **Zomato Power BI Dashboard (PBIX File):**  
+  [Download Dashboard](https://drive.google.com/file/d/1RigQjE6XeHrNJLIk1iMOvHhNwvVkSuOF/view?usp=sharing)
+
+- **Datasets:**  
+  [Access Dataset](https://drive.google.com/drive/folders/1nCqnibGZQLGAKoOovD_f6cgYH2oCti-N?usp=sharing)
+
+
 ## Abstract
 An interactive Power BI dashboard designed to analyse Zomato’s business data, uncover customer behaviour trends, and provide actionable insights into orders, sales, ratings, and user engagement across multiple cities.
 
